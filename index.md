@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my static GITHUB TEST PAGE
 ---
 
+asf hello test text
